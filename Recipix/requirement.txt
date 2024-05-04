@@ -1,0 +1,7 @@
+tensorflow
+opencv
+pandas
+numpy
+streamlit
+imutils
+requests
